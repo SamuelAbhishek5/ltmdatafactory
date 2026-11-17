@@ -1,0 +1,15 @@
+{
+	"name": "Samuel-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36af936a-090a-4ef7-9070-7556bcd32d87",
+		"tenantId": "b004a8b0-87e2-43c3-9940-c62feee15ff9"
+	}
+}
